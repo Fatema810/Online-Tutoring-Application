@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "627a869022ba0bd3b0a664e0"
+  },
+  "username": "emily",
+  "email": "emily@abc.com",
+  "password": "$2a$10$qIWQ5pubinhVH5l72zJYUuAgPdoBmI1EJcUMQcE0hDBu4A8.ZYp8K",
+  "favorites": [
+    "62560653ac7a63e1af0cf0a2",
+    "62560653ac7a63e1af0cf0a2"
+  ],
+  "hours": "14"
+},{
+  "_id": {
+    "$oid": "627be2c83ad963f03698fb3a"
+  },
+  "username": "jacob",
+  "email": "jacob@abc.com",
+  "password": "$2a$10$qIWQ5pubinhVH5l72zJYUuAgPdoBmI1EJcUMQcE0hAbcde.ZYp8K",
+  "favorites": []
+},{
+  "_id": {
+    "$oid": "627c1e96c5f4c71328d1afea"
+  },
+  "username": "jane",
+  "email": "jane@abc.com",
+  "password": "$2a$10$qIWQ5pubinhVH5l72zJYUuAgPdoBmI1EJcUMQcE0hAbcde.ZYp8K",
+  "favorites": []
+}]

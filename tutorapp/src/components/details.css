@@ -1,0 +1,48 @@
+.title {
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 1px;
+    font-size: 25px;
+    padding-top: 18px;
+  }
+
+  img {
+    max-width: 200px;
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-left: 185px;
+    text-align: center;
+  }
+
+ .name {
+    font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: black;
+    text-align: center;
+  }
+
+.about {
+    font-size: 30px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color:black;
+    text-align: center;
+  }
+
+  .yrs{
+      font-size: 30px;
+      font-weight: bold;
+      color:black;
+  }
+  
+  .rating{
+    font-size: 30px;
+    font-weight: bold;
+    color:black;
+}
+  button{
+      margin-bottom: 20px;
+  }
+  

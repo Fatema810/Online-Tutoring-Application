@@ -1,0 +1,125 @@
+.team-boxed {
+  color: #313437;
+  background-color: #eef4f7;
+}
+
+.team-boxed p {
+  color: #7d8285;
+}
+
+.team-boxed .people {
+  padding: 20px 30px;
+}
+
+.team-boxed .item {
+  text-align: center;
+}
+
+.team-boxed .item .card {
+  text-align: center;
+  padding:10px;
+  background-color: #fff;
+  margin-bottom: 10px;
+  
+  
+}
+
+.team-boxed .item .name {
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: black;
+}
+
+.team-boxed .item .title {
+  text-transform: uppercase;
+  font-weight: bold;
+  color: black;
+  letter-spacing: 1px;
+  font-size: 10px;
+}
+
+.team-boxed .item .description {
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  color: grey;
+  text-align: center;
+}
+
+.team-boxed .item img {
+  max-width: 90px;
+  border: 2px solid black;
+}
+
+img{
+  margin-left: 900px;
+  margin-left: 185px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.team-boxed .card {
+  box-shadow: 5px 5px 5px teal;
+}
+
+.topnav_card{
+  background-color:whitesmoke;
+  margin:0px;
+  padding: auto;
+  
+}
+
+#query_card{
+  /* border-radius: 25px; */
+  padding:10px;
+  padding-left:10px; 
+  width:200px;
+  height: 30px;
+  margin-left: 43%;
+  margin-top: -5px;
+  margin-bottom: 20px;
+  border: 2px solid black;
+
+}
+
+/* #form_button{
+  position: relative;
+  margin-top: -15px ;
+} */
+ 
+#navbar_title{
+  font-size: 30px;
+  font-weight: bolder;
+  color: rgb(8, 8, 8);
+  padding-top: 2px;
+}
+
+.card{
+  height: 300px;
+  width: fit-content;
+}
+
+.slick-slide {
+  margin: 0.0007px
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color:black;
+  background-color: teal
+}
+
+
+
+
+
+
+
+
+

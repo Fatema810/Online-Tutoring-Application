@@ -1,0 +1,48 @@
+body {
+    background-color: #FFEBEE;
+    background:
+            url('https://mdbcdn.b-cdn.net/img/new/fluid/nature/015.webp');
+}
+
+.card-appt {
+    width: 400px;
+    background-color: #fff;
+    border: 2px solid black;
+    border-radius: 12px;
+    margin-bottom: 50px;
+    height: 480px;
+}
+
+.card-body{
+    padding-bottom: 100px;
+}
+
+h6{
+    color:black;
+    font-weight: 400;
+    font-size: large;
+}
+
+
+.form-control {
+    margin-top: 10px;
+    height: 48px;
+    border: 2px solid #eee;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border: 2px solid black
+}
+
+.agree-text {
+    font-size: 13px;
+}
+
+.terms {
+    font-size: 12px;
+    text-decoration: none;
+    color: #039BE5
+}

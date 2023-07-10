@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Victor Jay",
+    "about_me": "I have been tutoring for 10 years now and it's truly been one of the most rewarding experiences of my life.",
+    "certificates": "certified",
+    "experience": "15",
+    "expertise": ["Physics", "English", "History"],
+    "tutor_img": ""
+  },
+  {
+    "id": 2,
+    "name": "James Noah",
+    "about_me": "I'm James! I've been tutoring for several years now specializing in Chemistry.",
+    "certificates": "",
+    "experience": "7",
+    "expertise": ["Chemistry", "Math", "Psychology"],
+    "tutor_img": ""
+  },
+  {
+    "id": 3,
+    "name": "Victor Fredrick",
+    "about_me": "Hello!.I am a recent graduate of the University of California, Santa Barbara with a degree in political science and education.I specialize in English,reading comprehension.",
+    "certificates": "certified",
+    "experience": "5",
+    "expertise": ["English", "Literature"],
+    "tutor_img": ""
+  },
+  {
+    "id": 4,
+    "name": "Adam",
+    "about_me": "Adam, a master tutor, graduated from Montclair State University and has been a passionate educator for thirteen years.",
+    "certificates": "certified",
+    "experience": "13",
+    "expertise": ["Arts", "Economics"],
+    "tutor_img": ""
+  },
+  {
+    "id": 5,
+    "name": "Victoria",
+    "about_me": "Victoria, a master tutor, is creative, patient, and has a passion for teaching. ",
+    "certificates": "",
+    "experience": "2",
+    "expertise": ["Psychology"],
+    "tutor_img": ""
+  },
+  {
+    "id": 6,
+    "name": "Asha",
+    "about_me": "Hello, I am Asha. I am passioante about teachinh. My areas of expertise include general science and Math.",
+    "certificates": "certified",
+    "experience": "7",
+    "expertise": ["Math", "Physics", "Chemistry"],
+    "tutor_img": ""
+  },
+  {
+    "id": 7,
+    "name": "Ellen",
+    "about_me": "I am a recent retired college professor of environmental engineering. I have degrees in computer science and chemical engineering.",
+    "certificates": "certified",
+    "experience": "15",
+    "expertise": ["Chemisrty", "Math"],
+    "tutor_img": ""
+  },
+  {
+    "id": 8,
+    "name": "Luis",
+    "about_me": "I have been tutoring for about 5 years now. English is my first language and grammar is my passion in any language.",
+    "certificates": "",
+    "experience": "5",
+    "expertise": ["English", "History"],
+    "tutor_img": ""
+  },
+  {
+    "id": 9,
+    "name": "Martin A.",
+    "about_me": "I am highly motivated math and science tutor with over 15 years of experience. I have over 10 years of hands-on experience working as a research chemist in Research & Development (R&D).",
+    "certificates": "certified",
+    "experience": "15",
+    "expertise": ["Math", "Physics"],
+    "tutor_img": ""
+  },
+  {
+    "id": 10,
+    "name": "Matthew M.",
+    "about_me": "Matthew, a master tutor, is a caring, compassionate, and a thorough teacher and tutor. ",
+    "certificates": "",
+    "experience": "3",
+    "expertise": ["Math", "Economics"],
+    "tutor_img": ""
+  }
+]

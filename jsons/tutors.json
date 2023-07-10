@@ -1,0 +1,92 @@
+[{
+  "_id": {
+    "$oid": "62560653ac7a63e1af0cf0a2"
+  },
+  "name": "Victor Jay",
+  "about_me": "I have been tutoring for 10 years now and it's truly been one of the most rewarding experiences of my life.",
+  "experience": "15",
+  "expertise": [
+    "Physics"
+  ],
+  "tutor_img": "",
+  "hours": "10",
+  "rating": "5"
+},{
+  "_id": {
+    "$oid": "62560653ac7a63e1af0cf0a5"
+  },
+  "name": "Adam",
+  "about_me": "Adam, a master tutor, graduated from Montclair State University and has been a passionate educator for thirteen years.",
+  "experience": "13",
+  "expertise": [
+    "Arts"
+  ],
+  "tutor_img": "",
+  "rating": "4.5",
+  "hours": "12"
+},{
+  "_id": {
+    "$oid": "62560653ac7a63e1af0cf0a7"
+  },
+  "name": "Asha",
+  "about_me": "Hello, I am Asha. I am passioante about teachinh. My areas of expertise include general science and Math.",
+  "experience": "7",
+  "expertise": [
+    "Math"
+  ],
+  "tutor_img": "",
+  "hours": "14",
+  "rating": "3.8"
+},{
+  "_id": {
+    "$oid": "62560653ac7a63e1af0cf0a8"
+  },
+  "name": "Ellen",
+  "about_me": "I am a recent retired college professor of environmental engineering. I have degrees in computer science and chemical engineering.",
+  "experience": "15",
+  "expertise": [
+    "Chemisrty"
+  ],
+  "tutor_img": "",
+  "hours": "6",
+  "rating": "4.8"
+},{
+  "_id": {
+    "$oid": "62560653ac7a63e1af0cf0aa"
+  },
+  "name": "Martin A.",
+  "about_me": "I am highly motivated math and science tutor with over 15 years of experience. I have over 10 years of hands-on experience working as a research chemist.",
+  "experience": "15",
+  "expertise": [
+    "Math"
+  ],
+  "tutor_img": "",
+  "hours": "5",
+  "rating": "4.9"
+},{
+  "_id": {
+    "$oid": "62560653ac7a63e1af0cf0ab"
+  },
+  "name": "Matthew M.",
+  "about_me": "Matthew, a master tutor, is a caring, compassionate, and a thorough teacher and tutor. ",
+  "experience": "3",
+  "expertise": [
+    "Math"
+  ],
+  "tutor_img": "",
+  "hours": "13",
+  "rating": "3.9"
+},{
+  "_id": {
+    "$oid": "627c3b4a8f071e8aa1bb9706"
+  },
+  "name": "Rock.",
+  "about_me": "Good teacher ",
+  "experience": "5",
+  "expertise": [
+    "Math"
+  ],
+  "tutor_img": "",
+  "hours": "14",
+  "rating": "4.0"
+}]
